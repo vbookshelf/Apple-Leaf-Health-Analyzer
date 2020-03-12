@@ -1,5 +1,5 @@
 ## Apple-Leaf-Health-Analyzer
-Plant Pathology - Ai powered web app to automatically analyze the health of apple tree leaves.
+Ai powered web app to automatically analyze the health of apple tree leaves.
 
 Under Construction...
 
@@ -12,7 +12,7 @@ Live Web App: http://apple.test.woza.work/
 
 <br>
 
-This is a prototype for an Ai powered online tool that can classify the health of apple tree leaves into one of four classes:
+This is a prototype for an online tool that can classify the health of apple tree leaves into one of four classes:
 - healthy
 - multiple_diseases
 - rust
