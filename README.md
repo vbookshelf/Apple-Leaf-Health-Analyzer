@@ -1,9 +1,6 @@
 ## Apple-Leaf-Health-Analyzer
 Ai powered web app to automatically analyze the health of apple tree leaves.
 
-Under Construction...
-
-
 Live Web App: http://apple.test.woza.work/
 
 <br>
@@ -19,8 +16,8 @@ This is a prototype for an online tool that can classify the health of apple tre
 - scab
 
 
-Model F1 score: <br>
-Model Accuracy: 
+Model F1 score: 0.91<br>
+Model Accuracy: 0.967
 
 <hr>
 
@@ -36,7 +33,7 @@ The app is mobile optimized. With a mobile phone, the apple leaves can be photog
 
 
 The process that I followed to build and train the model is described in this Kaggle kernel:<br>
-
+https://www.kaggle.com/vbookshelf/apple-leaf-health-analyzer-w-web-interface
 
 
 The dataset used to train the model consists of 1821 training images. It is part of the Kaggle Plant Pathology 2020 - FGVC7 research competition:<br>
