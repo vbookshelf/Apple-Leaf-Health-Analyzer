@@ -28,7 +28,7 @@ Model Accuracy:
 
 The app is mobile optimized. With a mobile phone, the apple leaves can be photograhed at different angles, depths and under different lighting conditions. This makes it easy to field test this model.
 
-- Navigate to http://apple.test.woza.work/
+- On your phone navigate to http://apple.test.woza.work/
 - Click the Submit button and then select "Camera". (This works on Android.)
 - Take a photo of a leaf. The photo will be sent directly to the app for classification.
 
