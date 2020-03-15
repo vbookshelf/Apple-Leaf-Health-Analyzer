@@ -16,8 +16,6 @@
 
 
 
-
-
 li {
 	font-family: 'Roboto', serif;
 	font-size: 16px;
@@ -31,7 +29,7 @@ a:hover {
 
 .add-margin {
 	margin-bottom: 30px;
-	margin-top: 5px;
+	margin-top: 20px;
 }
 
 
@@ -167,10 +165,6 @@ Specifically for tablets
 	padding-bottom: 300px;
 }
 
-.bottom-margin {
-	margin-bottom: 300px;
-}
-
 
 /*
 -----------------
@@ -287,7 +281,7 @@ input {
 
 .adjust-image {
 	max-width: 90%;
-	margin-bottom: 0px;
+	margin-bottom: 10px;
 }
 
 .space-letters {
