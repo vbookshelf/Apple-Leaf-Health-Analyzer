@@ -41,3 +41,16 @@ https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview
 
 All javascript, html and css files used to create the web app are available in this repo.
 
+<hr>
+
+### Lessons Learned re adding a Progress Bar
+
+From Tensorflow.js version 1.0.0 and beyond it's possible to add a progress bar by using onProgress.
+
+The good:<br>
+The progress bar gives the user a nice visual cue during model download. Also, when a user returns to the app later, a full progress bar tells the user that a cached model is instantly available so he/she won't need to wait for download.
+
+The bad and the ugly:<br>
+When a progress bar is added the model download becomes clunky and unreliable. In fact model download regularly fails. It could be that I've just implemented the progress bar functionality badly. 
+
+For the time being I've decided not to implement a progress bar on future projects.
