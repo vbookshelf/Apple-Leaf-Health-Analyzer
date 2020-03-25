@@ -51,6 +51,6 @@ The good:<br>
 The progress bar gives the user a nice visual cue during model download. Also, when a user returns to the app later, a full progress bar tells the user that a cached model is instantly available so he/she won't need to wait for download.
 
 The bad and the ugly:<br>
-When a progress bar is added the model download becomes clunky and unreliable. In fact model download regularly fails. It could be that I've just implemented the progress bar functionality badly. 
+When a progress bar is added the model download becomes unreliable if the internet connection is slow. In fact model download regularly fails. It could be that I've just implemented the progress bar functionality badly. When there's no progress bar I found that even when the connection was slow the model downloaded slowly but successfully.
 
 For the time being I've decided not to implement a progress bar on future projects.
